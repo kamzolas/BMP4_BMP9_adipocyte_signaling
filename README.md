@@ -1,4 +1,3 @@
-# BMP4_BMP9_adipocyte_signaling
 # Distinct Signaling Dynamics of BMP4 and BMP9 in Brown versus White Adipocytes
 
 **Authors**: Ioannis Kamzolas et al.
@@ -9,7 +8,7 @@
 
 ## 🧬 Overview
 
-This repository contains the R scripts and Dataset used by or produced by the study:
+This repository contains the R scripts and Datasets used or produced by the study:
 > **Title**: Distinct Signaling Dynamics of BMP4 and BMP9 in Brown versus White Adipocytes  
 
 
