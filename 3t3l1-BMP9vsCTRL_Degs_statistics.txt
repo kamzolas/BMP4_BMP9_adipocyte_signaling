@@ -1,0 +1,27 @@
+"x"
+"1"	"
+
+Control Animals: 4
+B1, B5, B9, B14
+
+Diet Animals: 4
+B3, B7, B11, B16
+
+Total number of genes after excluding low counts: 15931
+
+P_value: 3165 (<0.05)
+P_value: 1864 (<0.01)
+Adj_P_value: 1569 (<0.05)
+Adj_P_value: 1025 (<0.01)
+
+Upregulated Genes: 278  (logFC>1 - padj<0.05)
+Upregulated Genes: 239  (logFC>1 - padj<0.01)
+Upregulated Genes: 102  (logFC>2 - padj<0.05)
+Upregulated Genes: 86  (logFC>2 - padj<0.01)
+Upregulated Genes: 55  (logFC>3 - padj<0.05)
+
+Downregulated Genes: 254  (logFC<-1 - padj<0.05)
+Downregulated Genes: 195  (logFC<-1 - padj<0.01)
+Downregulated Genes: 51  (logFC<-2 - padj<0.05)
+Downregulated Genes: 35  (logFC<-2 - padj<0.01)
+Downregulated Genes: 22  (logFC<-3 - padj<0.05)"
